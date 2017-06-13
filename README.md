@@ -1,2 +1,2 @@
-# hello-bitch
+# hello-whatsgood
 another repository; GitHub intro
